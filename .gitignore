@@ -1,0 +1,4 @@
+test.csv
+.ipynb_checkpoints/*
+old/*
+source_kernel.ipynb
