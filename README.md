@@ -15,12 +15,12 @@ __Machine Learning__
 
 __Regression__
 
-__Data Analysis & Engineering__
-  -Data visualization
-  -Missing data imputation
-  -Features importance
-  -Outliers removal
-  -Feature engineering
+__Data Analysis & Engineering:__  
+- Data visualization 
+- Missing data imputation 
+- Features importance 
+- Outliers removal 
+- Feature engineering  
 
 __Random Forest__
 
